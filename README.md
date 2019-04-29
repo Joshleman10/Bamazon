@@ -6,4 +6,4 @@ customer works their way through prompts to place an order, selecting an item, a
 After placing the order, both the remaining inventory as well as the price are given to the customer.  If the customer orders more than
 the total stock quantity, they are asked to try again with an order quantity lower than the total in stock.  
 
-Check out the video to see the working app here: https://1drv.ms/v/s!AkxV5cHxIXzFmS8ax8cKBjFjP74_
+Check out the video to see the working app here: https://onedrive.live.com/?cid=C57C21F1C1E5554C&id=C57C21F1C1E5554C%213247&parId=root&o=OneUp
